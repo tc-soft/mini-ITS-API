@@ -1,0 +1,26 @@
+{
+  "name": "mini-its-api",
+  "version": "1.0.0",
+  "description": "REST-API with MSSQL Server",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tc-soft/mini-ITS-API.git"
+  },
+  "author": "Tadeusz Ciszewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tc-soft/mini-ITS-API/issues"
+  },
+  "homepage": "https://github.com/tc-soft/mini-ITS-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
