@@ -19,7 +19,8 @@
   "homepage": "https://github.com/tc-soft/mini-ITS-API#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mssql": "^7.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
