@@ -1,5 +1,6 @@
 import express from 'express';
 import dotenv from 'dotenv';
+import usersRoutes from './routes/users.js';
 
 dotenv.config();
 
@@ -7,6 +8,8 @@ const app = express();
 const PORT = process.env.PORT; 
 
 app.use(express.json());
+
+app.use('/users', usersRoutes);
 
 app.get('/', (req, res) => {
     console.log('[TEST]!');
