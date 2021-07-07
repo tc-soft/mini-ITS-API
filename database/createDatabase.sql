@@ -41,7 +41,7 @@ INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Ema
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'e66a5219-4d54-49b1-81ab-229f5d7fcadc', N'farleeva', N'Evan', N'Farley', N'Sales', N'evan.farley@example.com', N'502XXX502', N'User', N'wZggT5V1lL2rqCCfxl3HXyRPJ7Gb1STH+xhR4GDCJ0W8u/EtPQbzvc+CFbn7dZN3Z1dhwKI8Vn8TdlqxuGsJgw==')
 GO
-INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'e5daa03f-8dfa-4d1a-87b1-22d971f9257c', N'bachohar', N'Laila', N'Bach', N'Managers', N'laila.bach@example.com', N'505XXX505', N'Manager', N'a21CYE8bmNjxSjURjtpePETYBotYFXkwtsPnOuW2xUPFldpaKw7JbxdHSWKlUuuD733hcRyE63lu9cfG2BqtIQ==')
+INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'e5daa03f-8dfa-4d1a-87b1-22d971f9257c', N'bacholai', N'Laila', N'Bach', N'Managers', N'laila.bach@example.com', N'505XXX505', N'Manager', N'a21CYE8bmNjxSjURjtpePETYBotYFXkwtsPnOuW2xUPFldpaKw7JbxdHSWKlUuuD733hcRyE63lu9cfG2BqtIQ==')
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'898a1422-f504-4225-94f8-279945e97780', N'butchros', N'Rosetta', N'Butcher', N'Development', N'rosetta.butcher@example.com', N'508XXX508', N'User', N'OCv5v+PJ3M4wBuaoU0y1lp1MFsRvNhJVooHh0+PQsUcLtaUOriJ6bwd0nO/nalTjKt4OOMvxJy0BatR2ptdwmA==')
 GO
@@ -51,15 +51,15 @@ INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Ema
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'bdc6db1c-4c6f-464f-a485-31a3ff72b95e', N'pedroeva', N'Eva', N'Pedrov', N'IT', N'eva.pedrov@example.com', N'508XXX508', N'User', N'1GhzAKLkJ1Iep7lFYHlFsxFwNVrHEesShLC3Ak6r7cCwYKdGGuWgQfoGngGQCIYWfSTc4AAYGrE0puSExB19Bw==')
 GO
-INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'b5c20559-62a3-4fd6-8f9d-32b5849d60b3', N'gindanor', N'Alfie', N'Garner', N'Sales', N'alfie.garner@example.com', N'502XXX502', N'User', N'23TTuefPpFn19mMNA83mq4eLhhnya9sedStnNGnDFGBZXgXkl+ZUU6OSg1/n0gG1eYnNWIELDmMlcgSYIfnyAQ==')
+INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'b5c20559-62a3-4fd6-8f9d-32b5849d60b3', N'garnealf', N'Alfie', N'Garner', N'Sales', N'alfie.garner@example.com', N'502XXX502', N'User', N'23TTuefPpFn19mMNA83mq4eLhhnya9sedStnNGnDFGBZXgXkl+ZUU6OSg1/n0gG1eYnNWIELDmMlcgSYIfnyAQ==')
 GO
-INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'3ba6a524-6582-4edc-bbc2-35c6ef3e8fc1', N'homerjay', N'Anetha', N'Homer', N'Sales', N'anetha.homer@example.com', N'508XXX508', N'User', N'L6u+RtuVxnp9vx/yIdy26DZ+kshTWfahXjH6+TCohG/JL+RPbznAyM+lQkO2FXqP5K5TSsWC6aFOlfFzLvKc8w==')
+INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'3ba6a524-6582-4edc-bbc2-35c6ef3e8fc1', N'homerane', N'Anetha', N'Homer', N'Sales', N'anetha.homer@example.com', N'508XXX508', N'User', N'L6u+RtuVxnp9vx/yIdy26DZ+kshTWfahXjH6+TCohG/JL+RPbznAyM+lQkO2FXqP5K5TSsWC6aFOlfFzLvKc8w==')
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'b0d218db-5dfa-4906-9456-44542212eb66', N'sandovic', N'Victoria', N'Sandoval', N'IT', N'victoria.sandoval@example.com', N'504XXX504', N'User', N'bnJjVM8ZT8/TrUXC3zvnzBkszjuw532fK2foL+lSwS7MEROwxOcIZLHd8M89LR7ATG3MiQRyvrmVjvTaCLynyg==')
 GO
-INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'dfe4d2bf-08ea-4d86-9ccd-4e1ce3459c48', N'kirbyiza', N'Isabella', N'Kirby', N'Marketing', N'isabella.kirby@example.com', N'507XXX507', N'Manager', N's6Rs+ACBhZNSZDqS9+oAHcY6HbXabI6EZ2SoAd2I/6wzwH54BaspoCYfut/Zj9qQXis7erobV/RhFGALfRZfxg==')
+INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'dfe4d2bf-08ea-4d86-9ccd-4e1ce3459c48', N'kirbyisa', N'Isabella', N'Kirby', N'Marketing', N'isabella.kirby@example.com', N'507XXX507', N'Manager', N's6Rs+ACBhZNSZDqS9+oAHcY6HbXabI6EZ2SoAd2I/6wzwH54BaspoCYfut/Zj9qQXis7erobV/RhFGALfRZfxg==')
 GO
-INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'2a90b38c-84de-4485-866c-52f60e0ff4c8', N'shepajul', N'Julio', N'Separd', N'Sales', N'julio.separd@example.com', N'509XXX509', N'User', N'A4SVuY+nPk5aEOipw/UyKmBNb+2d/2II1zzq/87oZVu8IrGiTmuWVBYuk5eIPby44Afx6Qk4ROtWPqFdtEaHFA==')
+INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'2a90b38c-84de-4485-866c-52f60e0ff4c8', N'separjul', N'Julio', N'Separd', N'Sales', N'julio.separd@example.com', N'509XXX509', N'User', N'A4SVuY+nPk5aEOipw/UyKmBNb+2d/2II1zzq/87oZVu8IrGiTmuWVBYuk5eIPby44Afx6Qk4ROtWPqFdtEaHFA==')
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'3f190b77-d022-4346-b7ac-5bcedd51cb2c', N'beukeida', N'Ida', N'Beukema', N'IT', N'ida.beukema@example.com', N'506XXX506', N'Administrator', N'Ee81bZS2O1oVQYnxAT2ZX5Ev9vpUkPHhJkxI//KqAlW6qzvNNLV3zqP4/mlVBz4k0AjBN3405F/RpEGxUaFnNg==')
 GO
@@ -91,7 +91,7 @@ INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Ema
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'd3a03ad1-7bb4-4a95-afbf-9ae4df651384', N'butchlau', N'Laura', N'Butcher', N'Managers', N'laura.butcher@example.com', N'501XXX501', N'User', N'BmEs9qfwf474vC98xcxY9qJsp4x6bX4/0WR5oWw0pg13dr8p2n3PdKBaQXVRwOXfesMudrjgkNln5VC0TP1mAg==')
 GO
-INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'56843b5f-70c0-4555-bfb9-9b2842f6914c', N'cantrkri', N'Jovita', N'Cantrel', N'Sales', N'jovita.cantrel@example.com', N'509XXX509', N'User', N'prhaadMskOGT2MljVaR8/6YRBGzkjvqNQIVW1NJWcSG8ZB69OoCx+NmyjCwXh0iwaf3VDR0DLEyyBBtKeFAvGg==')
+INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'56843b5f-70c0-4555-bfb9-9b2842f6914c', N'cantrjov', N'Jovita', N'Cantrel', N'Sales', N'jovita.cantrel@example.com', N'509XXX509', N'User', N'prhaadMskOGT2MljVaR8/6YRBGzkjvqNQIVW1NJWcSG8ZB69OoCx+NmyjCwXh0iwaf3VDR0DLEyyBBtKeFAvGg==')
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'7b11cb04-b4ea-40a2-8dc2-9e5c68e1cbc0', N'kavosben', N'Benjamin', N'Kavos', N'Marketing', N'benjamin.kavos@example.com', N'504XXX504', N'User', N's90izk9vLd93DxIC+0rw7ayDfhNxZcDFOVOsknkPz56B0zrTciKzjxPI7ioaPq1hrnln8GkdRTIXUH27W4tVFA==')
 GO
@@ -103,7 +103,7 @@ INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Ema
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'503e9038-66b8-4cc5-a8eb-b5469aa8a84a', N'marsdver', N'Vera', N'Marsden', N'Research', N'vera.marsden@example.com', N'503XXX503', N'User', N'OzcpeXqwJC435ubNemYJ4IGl3aDMI5opyDlLgf7KuVkPuo78DK+O5tqnbDljX8n6SU2/XJz9g+8+9kB0Dv7mPA==')
 GO
-INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'5ee56913-7441-4305-8b31-bc86584fff47', N'bartebri', N'Brigita', N'Bartles', N'Sales', N'brigita.bartles@example.com', N'505XXX505', N'User', N'duMypqCJ6/H4N6VxJvAcqjgOSd7fGHojrn1qbf9Nmhgn/Vk4tS/un0jF0OR2+bCf3Qz1gJHyZIWNSw3J6kNKmQ==')
+INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'5ee56913-7441-4305-8b31-bc86584fff47', N'bartlbri', N'Brigita', N'Bartles', N'Sales', N'brigita.bartles@example.com', N'505XXX505', N'User', N'duMypqCJ6/H4N6VxJvAcqjgOSd7fGHojrn1qbf9Nmhgn/Vk4tS/un0jF0OR2+bCf3Qz1gJHyZIWNSw3J6kNKmQ==')
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'e5a70e8e-95f5-49a7-8dec-bd834df5720b', N'eglitade', N'Adeline', N'Eglite', N'Sales', N'adeline.eglite@example.com', N'506XXX506', N'User', N'S131Wlj5SWH2xuI6BjgT1EoAVvKT42UZsnVaUjfGpKdlh3E22Pv/ewfMVI/ZFOyXRvav11uZz3uev6qdjogMCA==')
 GO
@@ -123,7 +123,7 @@ INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Ema
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'6cfe2aef-c88b-4597-9c48-fc52e8899767', N'martieli', N'Elise', N'Martinez', N'Marketing', N'elise.martinez@example.com', N'501XXX501', N'User', N'EkSz0cB1oEqYpzmd3nDHNdLr+96YzR01gF65Mu4fxZvtjFUWdj7y9YcnMtfWeIM3m1CPQXCthgPBrLsa+Bj+tQ==')
 GO
-INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'00e98ac6-e651-4db7-a368-fca9709867f5', N'debbesop', N'Sophia', N'Deboer', N'Research', N'sophia.deboer@example.com', N'501XXX501', N'User', N'zuZijcSRJ/9NY8s3Vscsyj2PdjawjLU/8DcKFVKcr4rMbDNAOs9CnaNwSe+gW8SoR5xyCnhj0pWTaVsP7C47kg==')
+INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'00e98ac6-e651-4db7-a368-fca9709867f5', N'deboesop', N'Sophia', N'Deboer', N'Research', N'sophia.deboer@example.com', N'501XXX501', N'User', N'zuZijcSRJ/9NY8s3Vscsyj2PdjawjLU/8DcKFVKcr4rMbDNAOs9CnaNwSe+gW8SoR5xyCnhj0pWTaVsP7C47kg==')
 GO
 INSERT [dbo].[Users] ([Id], [Login], [FirstName], [LastName], [Department], [Email], [Phone], [Role], [PasswordHash]) VALUES (N'aeec8119-adec-471e-a970-fe7cd8ae3f49', N'cottlpet', N'Peter', N'Cottle', N'Managers', N'peter.cottle@example.com', N'507XXX507', N'User', N'gZC2C8pY/nD5i6x2xnGSxqI4UEG4zXMc4nerE92DnvqwfnXb98+vrGzkoaugN/BMwAWlxOjieUtFtmquXfYyZw==')
 GO
